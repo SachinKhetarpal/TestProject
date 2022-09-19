@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>sachin-test-name</finalName>
 	</build>
 
 </project>
